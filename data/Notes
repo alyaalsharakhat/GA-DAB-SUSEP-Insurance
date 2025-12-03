@@ -1,7 +1,5 @@
-## Data Sources
-
-### Original Data Source (Unavailable)
-- **Agency**: SUSEP - Superintendence of Private Insurance
-- **Original URL**: https://www2.susep.gov.br/menuestatistica/autoseg/principal.aspx
-- **Data Type**: Brazilian auto insurance industry statistics (2017-2020)
-- **Status**: The URL is not working due to government website updates
+# Data Sources
+  - Agency: SUSEP - Superintendence of Private Insurance
+  - URL: https://www2.susep.gov.br/menuestatistica/autoseg/principal.aspx
+  - Data Type: Brazilian auto insurance industry statistics (2017-2020)
+  - Status: The URL is not working due to government website updates
